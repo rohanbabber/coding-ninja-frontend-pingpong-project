@@ -1,0 +1,23 @@
+#rod1, #rod2{
+    height: 10px;
+    width: 200px;
+    border-radius: 20px;
+    color: white;
+    text-align: center;
+    line-height: 0.8;
+}
+
+#rod1{
+    border: 5px solid darkblue;
+    background-color: darkblue;
+}
+#rod2{
+    border: 5px solid purple;
+    background-color: purple;
+}
+#ball {
+    background: maroon;
+    border-radius: 50%;
+    width: 15px;
+    height: 15px;
+}
